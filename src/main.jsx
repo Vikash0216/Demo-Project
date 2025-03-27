@@ -9,7 +9,7 @@ import Home from "./components/Home/Home"
 import User from "./components/User/User"
 import Github, { githubLoader } from "./components/Github/Github"
 import Login from './components/Login/Login.jsx'
-import GetStarted from './components/Getstarted/Getstarted.jsx'
+import GetStarted from './components/Getstarted/GetStarted.jsx'
 
 const routes = createBrowserRouter(
   createRoutesFromElements(
