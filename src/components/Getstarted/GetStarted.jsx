@@ -13,7 +13,7 @@ function GetStarted() {
 
                 {/* Get Started Button */}
                 <Link
-                    to="/signup"
+                    to="/"
                     className="mt-6 inline-block px-6 py-3 text-white bg-blue-600 rounded-lg 
                     text-lg font-medium hover:bg-blue-700 transition-transform transform hover:scale-105"
                 >
